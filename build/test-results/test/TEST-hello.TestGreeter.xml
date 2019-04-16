@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.TestGreeter" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-16T22:34:45" hostname="jacobs-MacBook-Air-2.local" time="0.008">
+  <properties/>
+  <testcase name="newtestjgGreaterPass" classname="hello.TestGreeter" time="0.003"/>
+  <testcase name="testGreeter" classname="hello.TestGreeter" time="0.001"/>
+  <testcase name="testGreeterEmpty" classname="hello.TestGreeter" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
